@@ -3,3 +3,5 @@ um aplicativo web feito com gemini estilo vibe coding para adicionar e copiar se
 
 tutorial para fazer backup ou restaura suas listas / tutorial to backup or restore your lists
 https://odysee.com/backup-e-restaura%C3%A7%C3%A3o-dos-seus-links:b?r=Ds6CEfgCxmXPhiVm98aDFQUBeXjL8N23
+
+DOWNLOAD: https://github.com/kayronnBR/my-list-of-links/archive/refs/heads/main.zip

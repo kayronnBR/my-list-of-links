@@ -8,3 +8,6 @@ tutorial para fazer backup ou restaura suas listas / tutorial to backup or resto
 https://odysee.com/backup-e-restaura%C3%A7%C3%A3o-dos-seus-links:b?r=Ds6CEfgCxmXPhiVm98aDFQUBeXjL8N23
 
 DOWNLOAD: https://github.com/kayronnBR/my-list-of-links/archive/refs/heads/main.zip
+
+TUTORIAL:
+https://piorsitedomundo2077.blogspot.com/2026/02/tutorial-como-usar-aplicativo-de-lista.html
